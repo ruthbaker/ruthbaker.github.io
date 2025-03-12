@@ -1,0 +1,65 @@
+---
+permalink: /group/
+title: "Group"
+--- 
+
+**Postdoctoral research assistants and fellows**
+
+* [Dr Stephanie Abo](https://scholar.google.com/citations?user=c3qwdkkAAAAJ&hl=en) - Data-driven modelling of collective cell behaviour.
+* [Dr Torkel Loman](https://scholar.google.com/citations?hl=en&user=prYhorUAAAAJ&view_op=list_works&sortby=pubdate) - Practical identifiability of mathematical models.
+
+**Doctoral students**
+
+* [Jamie Boyle](https://www.maths.ox.ac.uk/people/james.boyle) – Data-driven modelling of collective cell migration. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
+* [Arianna Ceccarelli](https://www.linkedin.com/in/arianna-ceccarelli1998/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=uk) – Mathematical approaches to mRNA transport and localisation. (Joint with [Alex Browning](https://alexbrowning.me/about/).)
+*   [Katie Croft](https://www.rdm.ox.ac.uk/people/katie-croft) – Computational modelling of hematopoietic stem cell maintenance during physiological ageing and inflammatory stress. (Joint with [Claus Nerlov](https://www.imm.ox.ac.uk/research/research-groups/nerlov-group-hematopoietic-stem-cell-genetics).)
+*   [Rebecca Crossley](https://www.maths.ox.ac.uk/people/rebecca.crossley) – Continuum models of cell invasion. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
+*   [Carles Falco I Gandia](http://www.maths.ox.ac.uk/people/carles.falcoigandia) – Modelling interacting cell populations (Joint with [Jose Carrillo](https://carrilloja.org).)
+*   [James Hammond](https://www.zoo.ox.ac.uk/people/mr-james-hammond#tab-3045136) –  On the evolvability of segment number in Teleost fishes. (Joint with [Berta Verd](https://www.zoo.ox.ac.uk/people/berta-verd).)
+*   [Elliot Hughes](https://scholar.google.com/citations?hl=en&user=xNSp09cAAAAJ?hl=en&user=xNSp09cAAAAJ) – Mathematical modelling of cell migration. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
+*   [Samuel Johnson](https://www.linkedin.com/in/samuel-johnson-23a789211/?originalSubdomain=uk)  – Mathematical modelling of neural crest cell invasion. (Joint with  [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
+*   [Ian McFarlane](https://www.maths.ox.ac.uk/people/ian.mcfarlane)  –  Homeostasis, bacterial infection and carcinogenesis in human gastric glands. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and  [Francesco](https://www.ludwig.ox.ac.uk/team/francesco-boccellato) Boccellato.)
+*   [Joseph Pollaco](https://users.ox.ac.uk/~pemb5356/index.html)  –  A hybrid experimental-modelling study of SOS response-induced filamentation and its effect on bacterial colony growth . (Joint with Stefan Uphoff and  [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
+*   [Tom Quinlan](https://www.maths.ox.ac.uk/people/thomas.quinlan) – An integrative mathematical approach to understand how intraplaque angiogenesis and vascular structure impact atherosclerosis and their potential as novel therapeutic targets. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
+*   [Thomas Reed](https://www.maths.ox.ac.uk/people/tom.reed) – Mathematical modelling of adipose tissue lipid metabolism. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
+*   [Nathan Schofield](https://www.maths.ox.ac.uk/people/nathan.schofield) – Mathematical modelling of the role of cell heterogeneity in promoting melanoma metastasis. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Richard White](https://www.ludwig.ox.ac.uk/research/richard-white-group-page).)
+*   [Yuan Yin](https://www.linkedin.com/in/rebecca-yin/?originalSubdomain=au) – Mathematical modelling of cardiac fibrosis. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
+
+**Past members** 
+
+* Dr B Vaughan Jr - Multi-scale modelling and numerical simulation of periodic pattern formation during development (PDRA 2007-2009).
+* Dr Philip Murray - Multi-scale modelling of cellular oscillators: applications to vertebrate segmentation and hair follicle cycling (PDRA 2009-2012).
+* Dr Gareth Stevenson - Facilitating the analysis of electron transfer in chemistry and biochemistry through development of a mathematical framework of ac voltammetry (D.Phil. 2010, PDRA 2010-2011).
+* Dr Thomas Woolley - A new mechanism of motility: the role of the bleb (D.Phil. 2011, PDRA 2012-2014).
+* Dr Linus Schumacher - A mathematical exploration of principles of collective cell migration and self-organisation (D.Phil. 2015, EPSRC Doctoral Prize Fellow 2016).
+* Dr Jochen Kursawe - Quantitative approaches to epithelial morphogenesis (D.Phil. 2017, EPSRC Postdoctoral Prize Fellow 2017).* Prof Gergely Rost - Temporal delays in mathematical models of cell biology processes (Marie Sklodowska Curie Individual Fellow 2017-2019).
+* Dr Daniel Wilson - Mathematical models of transport processes on networks (D.Phil. 2019, EPSRC Doctoral Prize Fellow 2019-2020).
+* Dr Thomas Prescott - Next generation approaches to connect models and quantitative data (PDRA 2018-2021).
+* Dr Aden Forrow - Modelling and inference in single-cell RNA sequencing (Royal Commission for the Exhibition of 1851 Research Fellow 2018-2022).
+* Dr Chloe Stewart - Understanding the core mechanisms driving organ fibrosis using state-of-the-art in vitro assays, advanced quantitative imaging and multimodal modelling (PDRA 2023-2024).
+* Dr Simon Martina-Perez - Data-driven modelling methods for cell migration (D.Phil. 2024, PDRA 2024).
+* Dr Charlotte Jupp - Mathematical modelling of the formation of feather germs in chicks (D.Phil. 2010).
+* Dr Christian Yates - Comparing stochastic discrete and deterministic continuum models for cell migration (D.Phil. 2011).
+* Dr Aaron Smith - Cell-based models for morphogenesis (D.Phil. 2012).
+* Dr Suruchi Bakshi - Mathematical modelling of asymmetrically dividing stem cells in Drosophila (D.Phil. 2013).
+* Dr Louise Dyson - Mathematical models for cranial neural crest cell migration (D.Phil. 2013).
+* Dr Gabriel Rosser - Mathematical models for bacterial chemotaxis (D.Phil. 2013).
+* Dr Deborah Markham - Correlations models for cell biology processes (D.Phil. 2014).
+* Dr Graham Morris - Parameter recovery in AC solution-phase voltammetry and a consideration of some issues arising when applied to surface-confined reactions (D.Phil. 2014).
+* Dr Kathryn Atwell - Investigating the interplay between cellular mechanics and decision-making in the C. elegans germ line (D.Phil. 2016).
+* Dr Robert Ross - Modelling cell migration, proliferation and interactions on growing domains (D.Phil. 2016).
+* Dr Paul Taylor - Stochastic, lattice-based models of diffusion in biological systems (D.Phil. 2016).
+* Dr Chris Lester - Efficient simulation techniques for biochemical reaction networks (D.Phil. 2017).
+* Dr Fergus Cooper - Modelling of multicellular structures during development (D.Phil. 2019).
+* Dr Jonathan Harrison - Using quantitative data and mathematical models to interrogate cell and developmental biology processes (D.Phil. 2019).
+* Dr Andrew Parker - Developing and parameterising models for cell biology processes (D.Phil. 2019).
+* Dr Casper Beentjes - Stochastic simulation of cell and developmental biology processes (D.Phil. 2020).
+* Dr David Warne (QUT) - Efficient computational methods for parameter inference within models of stochastic chemical kinetics (Ph.D. 2020).
+* Dr Bartosz Bartmanski - Efficient methods for simulating stochastic reaction-diffusion models on evolving domains. (D.Phil. 2021).
+* Dr Rasa Giniunaite - Coarse-grained models for cell invasion processes (D.Phil. 2021).
+* Dr Thomas Pak - Modelling the chemo-mechanical processes of cell competition (D.Phil. 2022).
+* Dr Solveig van der Vegt - Mathematical modelling of autoimmune myocarditis and the effects of immune checkpoint inhibitors (D.Phil. 2022).
+* Dr Yue Liu - Toward the control of spatio-temporal models of biological systems (D.Phil. 2024).
+* Derek Tan - Mathematical modelling of adhesion-mediated somitogenesis (M.Res. 2010).
+* Maxandre Jacqueline - Mathematical and computational modelling of three-dimensional culture systems for stem-cell-derived cardiomyocytes (M.Res. 2020).
+* Rebecca Rumney - Modelling and inference for pharmacokinetics-pharmacodynamics. (M.Res. 2024)

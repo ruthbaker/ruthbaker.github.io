@@ -1,0 +1,11 @@
+main:
+  # - title: "Home"
+    # url: /index/
+  - title: "About"
+    url: /about/
+  #- title: "Posts"
+  #  url: /posts/
+  - title: "Publications"
+    url: /publications/
+  - title: "Group"
+    url: /group/
