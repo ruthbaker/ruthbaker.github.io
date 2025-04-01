@@ -5,6 +5,8 @@ title: "Publications"
 
 **Preprints**
 
+*   R. M. Crossley, P. K. Maini and R. E. Baker. Modelling the impact of phenotypic heterogeneity on cell migration: a continuum framework derived from individual-based principles. [arXiv](https://arxiv.org/abs/2503.23545)
+*   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
 *   S. W. S. Johnson, P. M. Kulesa, R. E. Baker and P. K. Maini. Mathematical modelling predicts novel mechanisms of stream confinement from Trail/Colec12/Dan in the collective migration of cranial neural crest cells. [bioRxiv](https://doi.org/10.1101/2025.02.20.639239)
 *   S. F. Martina-Perez, L. A. Heirene, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Modeling cell differentiation in neuroblastoma: insights into development, malignancy, and treatment relapse. [arXiv](https://arxiv.org/abs/2502.20939).
 *   S. F. Martina-Perez, S. W. S. Johnson, R. M. Crossley, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Optimal control in combination therapy for heterogeneous cell populations with drug synergies. [arXiv](https://arxiv.org/abs/2502.12079)
