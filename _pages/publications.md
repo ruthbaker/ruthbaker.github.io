@@ -5,6 +5,8 @@ title: "Publications"
 
 **Preprints**
 
+*   R. E. Baker, R. M. Crossley, C. Falco and S. F. Martina-Perez. Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling. [arXiv](https://arxiv.org/abs/2504.19974)
+*   J. Qi and R. E. Baker. Optimal experimental design for parameter estimation in the presence of observation noise. [arXiv](https://arxiv.org/abs/2504.19233)
 *   R. M. Crossley, P. K. Maini and R. E. Baker. Modelling the impact of phenotypic heterogeneity on cell migration: a continuum framework derived from individual-based principles. [arXiv](https://arxiv.org/abs/2503.23545)
 *   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
 *   S. W. S. Johnson, P. M. Kulesa, R. E. Baker and P. K. Maini. Mathematical modelling predicts novel mechanisms of stream confinement from Trail/Colec12/Dan in the collective migration of cranial neural crest cells. [bioRxiv](https://doi.org/10.1101/2025.02.20.639239)
