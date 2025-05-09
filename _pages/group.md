@@ -32,7 +32,8 @@ title: "Group"
 * Dr Gareth Stevenson - Facilitating the analysis of electron transfer in chemistry and biochemistry through development of a mathematical framework of ac voltammetry (D.Phil. 2010, PDRA 2010-2011).
 * Dr Thomas Woolley - A new mechanism of motility: the role of the bleb (D.Phil. 2011, PDRA 2012-2014).
 * Dr Linus Schumacher - A mathematical exploration of principles of collective cell migration and self-organisation (D.Phil. 2015, EPSRC Doctoral Prize Fellow 2016).
-* Dr Jochen Kursawe - Quantitative approaches to epithelial morphogenesis (D.Phil. 2017, EPSRC Postdoctoral Prize Fellow 2017).* Prof Gergely Rost - Temporal delays in mathematical models of cell biology processes (Marie Sklodowska Curie Individual Fellow 2017-2019).
+* Dr Jochen Kursawe - Quantitative approaches to epithelial morphogenesis (D.Phil. 2017, EPSRC Postdoctoral Prize Fellow 2017).
+* Prof Gergely Rost - Temporal delays in mathematical models of cell biology processes (Marie Sklodowska Curie Individual Fellow 2017-2019).
 * Dr Daniel Wilson - Mathematical models of transport processes on networks (D.Phil. 2019, EPSRC Doctoral Prize Fellow 2019-2020).
 * Dr Thomas Prescott - Next generation approaches to connect models and quantitative data (PDRA 2018-2021).
 * Dr Aden Forrow - Modelling and inference in single-cell RNA sequencing (Royal Commission for the Exhibition of 1851 Research Fellow 2018-2022).
