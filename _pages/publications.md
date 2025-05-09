@@ -23,13 +23,14 @@ title: "Publications"
 
 **2025**
 
+213. C. Falco, R. E. Baker and J. A. Carrillo. A non-local approach to aggregation-diffusion equations. SIAM Rev. (SIGEST) [DOI](https://doi.org/10.1137/25M1726248)
 212. M. J. Simpson and R. E. Baker. Parameter identifiability, parameter estimation and model prediction for differential equation models. To appear in SIAM Rev. [arXiv](https://arxiv.org/abs/2405.08177)
 211.  A. Ceccarelli, A. P. Browning and R. E. Baker (2025). Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations. Bull. Math. Biol. 87(57). [arXiv](https://arxiv.org/abs/2406.19787) [DOI](https://doi.org/10.1007/s11538-025-01437-x)
 210.  J. E. Hammond, R. E. Baker and B. Verd (2025). Modularity of the segmentation clock and morphogenesis. eLife 14:RP106316. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.08.574679v2) [DOI](https://doi.org/10.7554/eLife.106316.2)
 209.  C. Falco, D. J. Cohen, J. A. Carrillo and R. E. Baker (2025). Quantifying cell cycle regulation by tissue crowding. Biophys. J. 124(6):923-932. [arXiv](https://arxiv.org/abs/2401.08805) [DOI](https://doi.org/10.1016/j.bpj.2024.05.003)
 208.  J. J. Pollacco, R. E. Baker and P. K. Maini (2024). Collective invasion: when does domain curvature matter? Appl. Math. Lett. 160:109315  [arXiv](https://arxiv.org/abs/2406.08291) [DOI](https://doi.org/10.1016/j.aml.2024.109315)
 207.  M. J. Plank, M. J. Simpson and R. E. Baker (2025). Random walk models in the life sciences: including births, deaths and local interactions.  J. Roy. Soc. Interface 22(222):20240422. [arXiv](https://arxiv.org/abs/2411.10972) [DOI](https://doi.org/10.1098/rsif.2024.0422)
-{:start="212"}
+{:start="213"}
 {:reversed="reversed"}
 
 **2024**
