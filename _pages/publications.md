@@ -14,23 +14,22 @@ title: "Publications"
 *   S. F. Martina-Perez, S. W. S. Johnson, R. M. Crossley, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Optimal control in combination therapy for heterogeneous cell populations with drug synergies. [arXiv](https://arxiv.org/abs/2502.12079)
 *   A. Johnston, R. E. Baker and M. J. Simpson. Efficient inference for differential equation models without numerical solvers. [arXiv](https://arxiv.org/abs/2411.10494)
 *   J. G. Borgqvist, A. P. Browning, F. Ohlsson and R. E. Baker. Framing global structural identifiability in terms of parameter symmetries. [arXiv](https://arxiv.org/abs/2410.03757)
-*   S. van der Vegt, R. E. Baker and S. L. Waters. Optimal control of immune checkpoint inhibitor therapy in a heart-tumour model. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.16.613200v1)
 *   I. B. Breinyn, S. Martina-Perez, R. E. Baker and D. J. Cohen. Cellular cruise control: energy expenditure as a regulator of collective migration in epithelia. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.21.595054v1)
 *   S. F. Martina-Perez, I. B. Breinyn, D. J. Cohen and R. E. Baker. Spatial heterogeneity in collective electrotaxis: continuum modelling and applications to optimal control. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.28.580259v1)
-*   J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa. Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1)
 *   J. G. Borgqvist, F. Ohlsson, X. Zhou and R. E. Baker. Construction of integrable generalised travelling wave models and analytical solutions using Lie symmetries. [arXiv](https://arxiv.org/pdf/2310.08296)
 *   A. Forrow and R. E. Baker. Measuring the accuracy of likelihood-free inference. [arXiv](https://arxiv.org/abs/2112.08096)
 
 **2025**
-
-213. C. Falco, R. E. Baker and J. A. Carrillo. A non-local approach to aggregation-diffusion equations. SIAM Rev. (SIGEST) [arXiv](https://arxiv.org/abs/2505.08443) [DOI](https://doi.org/10.1137/25M1726248)
+215. S. van der Vegt, R. E. Baker and S. L. Waters. Optimal control of immune checkpoint inhibitor therapy in a heart-tumour model. To appear in Bull. Math. Biol. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.16.613200v1)
+214. J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa. Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. To appear in Dev. Dyn. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1)
+213. C. Falco, R. E. Baker and J. A. Carrillo. A non-local approach to aggregation-diffusion equations. SIAM Rev. (SIGEST) 67(2). [arXiv](https://arxiv.org/abs/2505.08443) [DOI](https://doi.org/10.1137/25M1726248)
 212. M. J. Simpson and R. E. Baker. Parameter identifiability, parameter estimation and model prediction for differential equation models. To appear in SIAM Rev. [arXiv](https://arxiv.org/abs/2405.08177)
 211.  A. Ceccarelli, A. P. Browning and R. E. Baker (2025). Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations. Bull. Math. Biol. 87(57). [arXiv](https://arxiv.org/abs/2406.19787) [DOI](https://doi.org/10.1007/s11538-025-01437-x)
 210.  J. E. Hammond, R. E. Baker and B. Verd (2025). Modularity of the segmentation clock and morphogenesis. eLife 14:RP106316. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.08.574679v2) [DOI](https://doi.org/10.7554/eLife.106316.2)
 209.  C. Falco, D. J. Cohen, J. A. Carrillo and R. E. Baker (2025). Quantifying cell cycle regulation by tissue crowding. Biophys. J. 124(6):923-932. [arXiv](https://arxiv.org/abs/2401.08805) [DOI](https://doi.org/10.1016/j.bpj.2024.05.003)
-208.  J. J. Pollacco, R. E. Baker and P. K. Maini (2024). Collective invasion: when does domain curvature matter? Appl. Math. Lett. 160:109315  [arXiv](https://arxiv.org/abs/2406.08291) [DOI](https://doi.org/10.1016/j.aml.2024.109315)
+208.  J. J. Pollacco, R. E. Baker and P. K. Maini (2024). Collective invasion: when does domain curvature matter? Appl. Math. Lett. 160:109315.  [arXiv](https://arxiv.org/abs/2406.08291) [DOI](https://doi.org/10.1016/j.aml.2024.109315)
 207.  M. J. Plank, M. J. Simpson and R. E. Baker (2025). Random walk models in the life sciences: including births, deaths and local interactions.  J. Roy. Soc. Interface 22(222):20240422. [arXiv](https://arxiv.org/abs/2411.10972) [DOI](https://doi.org/10.1098/rsif.2024.0422)
-{:start="213"}
+{:start="215"}
 {:reversed="reversed"}
 
 **2024**
