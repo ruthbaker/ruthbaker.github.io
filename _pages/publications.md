@@ -5,6 +5,7 @@ title: "Publications"
 
 **Preprints**
 
+*   A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. David and R. E. Baker. [arXiv](https://arxiv.org/abs/2505.19292)
 *   J. Qi and R. E. Baker. Optimal experimental design for parameter estimation in the presence of observation noise. [arXiv](https://arxiv.org/abs/2504.19233)
 *   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
 *   A. Johnston, R. E. Baker and M. J. Simpson. Efficient inference for differential equation models without numerical solvers. [arXiv](https://arxiv.org/abs/2411.10494)
