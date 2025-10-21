@@ -10,20 +10,23 @@ title: "Group"
 
 **Doctoral students**
 
-* [Jamie Boyle](https://www.maths.ox.ac.uk/people/james.boyle) – Data-driven modelling of collective cell migration. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
-* [Arianna Ceccarelli](https://www.linkedin.com/in/arianna-ceccarelli1998/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=uk) – Mathematical approaches to mRNA transport and localisation. (Joint with [Alex Browning](https://alexbrowning.me/about/).)
+*   [Jamie Boyle](https://www.maths.ox.ac.uk/people/james.boyle) – Data-driven modelling of collective cell migration. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
+*   [Arianna Ceccarelli](https://www.linkedin.com/in/arianna-ceccarelli1998/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=uk) – Mathematical approaches to mRNA transport and localisation. (Joint with [Alex Browning](https://alexbrowning.me/about/).)
 *   [Katie Croft](https://www.rdm.ox.ac.uk/people/katie-croft) – Computational modelling of hematopoietic stem cell maintenance during physiological ageing and inflammatory stress. (Joint with [Claus Nerlov](https://www.imm.ox.ac.uk/research/research-groups/nerlov-group-hematopoietic-stem-cell-genetics).)
 *   [Rebecca Crossley](https://www.maths.ox.ac.uk/people/rebecca.crossley) – Continuum models of cell invasion. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
-*   [Carles Falco I Gandia](http://www.maths.ox.ac.uk/people/carles.falcoigandia) – Modelling interacting cell populations (Joint with [Jose Carrillo](https://carrilloja.org).)
-*   [James Hammond](https://www.zoo.ox.ac.uk/people/mr-james-hammond#tab-3045136) –  On the evolvability of segment number in Teleost fishes. (Joint with [Berta Verd](https://www.zoo.ox.ac.uk/people/berta-verd).)
+*   Catherine Engert. TBC. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
+*   Luke De Bretton-Gordon. TBC. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   [Elliot Hughes](https://scholar.google.com/citations?hl=en&user=xNSp09cAAAAJ?hl=en&user=xNSp09cAAAAJ) – Mathematical modelling of cell migration. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
 *   [Samuel Johnson](https://www.linkedin.com/in/samuel-johnson-23a789211/?originalSubdomain=uk)  – Mathematical modelling of neural crest cell invasion. (Joint with  [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
-*   [Ian McFarlane](https://www.maths.ox.ac.uk/people/ian.mcfarlane)  –  Homeostasis, bacterial infection and carcinogenesis in human gastric glands. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and  [Francesco](https://www.ludwig.ox.ac.uk/team/francesco-boccellato) Boccellato.)
+* Dmytro Lyubka - TBC. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
+*   [Ian McFarlane](https://www.maths.ox.ac.uk/people/ian.mcfarlane)  –  Homeostasis, bacterial infection and carcinogenesis in human gastric glands. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Francesco](https://www.ludwig.ox.ac.uk/team/francesco-boccellato) Boccellato.)
 *   [Joseph Pollaco](https://users.ox.ac.uk/~pemb5356/index.html)  –  A hybrid experimental-modelling study of SOS response-induced filamentation and its effect on bacterial colony growth . (Joint with Stefan Uphoff and  [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 *   [Tom Quinlan](https://www.maths.ox.ac.uk/people/thomas.quinlan) – An integrative mathematical approach to understand how intraplaque angiogenesis and vascular structure impact atherosclerosis and their potential as novel therapeutic targets. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   [Thomas Reed](https://www.maths.ox.ac.uk/people/tom.reed) – Mathematical modelling of adipose tissue lipid metabolism. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
+*   Ben Stephens. TBC. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 *   [Nathan Schofield](https://www.maths.ox.ac.uk/people/nathan.schofield) – Mathematical modelling of the role of cell heterogeneity in promoting melanoma metastasis. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Richard White](https://www.ludwig.ox.ac.uk/research/richard-white-group-page).)
 *   [Yuan Yin](https://www.linkedin.com/in/rebecca-yin/?originalSubdomain=au) – Mathematical modelling of cardiac fibrosis. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
+*   Lena Zuspann. TBC. (Joint with [Maria Bruna](https://people.maths.ox.ac.uk/bruna/).)
 
 **Past members** 
 
@@ -61,6 +64,8 @@ title: "Group"
 * Dr Thomas Pak - Modelling the chemo-mechanical processes of cell competition (D.Phil. 2022).
 * Dr Solveig van der Vegt - Mathematical modelling of autoimmune myocarditis and the effects of immune checkpoint inhibitors (D.Phil. 2022).
 * Dr Yue Liu - Toward the control of spatio-temporal models of biological systems (D.Phil. 2024).
+* Dr James Hammond –  On the evolvability of segment number in Teleost fishes (D.Phil. 2025).
+* Dr Carles Falco I Gandia - Modelling interacting cell populations (D.Phil. 2025).
 * Derek Tan - Mathematical modelling of adhesion-mediated somitogenesis (M.Res. 2010).
 * Maxandre Jacqueline - Mathematical and computational modelling of three-dimensional culture systems for stem-cell-derived cardiomyocytes (M.Res. 2020).
 * Rebecca Rumney - Modelling and inference for pharmacokinetics-pharmacodynamics. (M.Res. 2024)

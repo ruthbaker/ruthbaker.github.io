@@ -5,7 +5,8 @@ title: "Publications"
 
 **Preprints**
 
-*   A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. David and R. E. Baker. [arXiv](https://arxiv.org/abs/2505.19292)
+*   A. Leibenzon, S. W. S. Johnson, R. E. Baker and M. Assaf. Spatial correlations in SIS processes on regular random graphs. [arXiv](https://arxiv.org/abs/2509.25386)
+*   A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. Davis and R. E. Baker. A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models. [arXiv](https://arxiv.org/abs/2505.19292)
 *   J. Qi and R. E. Baker. Optimal experimental design for parameter estimation in the presence of observation noise. [arXiv](https://arxiv.org/abs/2504.19233)
 *   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
 *   A. Johnston, R. E. Baker and M. J. Simpson. Efficient inference for differential equation models without numerical solvers. [arXiv](https://arxiv.org/abs/2411.10494)
@@ -17,7 +18,8 @@ title: "Publications"
 *   A. Forrow and R. E. Baker. Measuring the accuracy of likelihood-free inference. [arXiv](https://arxiv.org/abs/2112.08096)
 
 **2025**
-220.  R. E. Baker, R. M. Crossley, C. Falco and S. F. Martina-Perez. Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling. To appear in Cell Migration --  Cold Spring Harbor Laboratory Perspectives in Biology. [arXiv](https://arxiv.org/abs/2504.19974)
+221. Y. Yin, S. L. Waters and R. E. Baker (2025). The influence of cell phenotype on collective cell invasion into the extracellular matrix. To appear in Bull. Math. Biol.
+220.  R. E. Baker, R. M. Crossley, C. Falco and S. F. Martina-Perez (2025). Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling. To appear in Cell Migration --  Cold Spring Harbor Laboratory Perspectives in Biology. [arXiv](https://arxiv.org/abs/2504.19974)
 219.  J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa (2025). Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. To appear in Dev. Dyn. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1)
 218.  S. F. Martina-Perez, S. W. S. Johnson, R. M. Crossley, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Optimal control in combination therapy for heterogeneous cell populations with drug synergies. To appear in Bull. Math. Biol. [arXiv](https://arxiv.org/abs/2502.12079)
 217.  S. F. Martina-Perez, L. A. Heirene, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Modeling cell differentiation in neuroblastoma: insights into development, malignancy, and treatment relapse. To appear in J. Theor. Biol. [arXiv](https://arxiv.org/abs/2502.20939).
