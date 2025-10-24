@@ -17,7 +17,7 @@ title: "Group"
 *   Catherine Engert. TBC. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   Luke De Bretton-Gordon. TBC. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   [Elliot Hughes](https://scholar.google.com/citations?hl=en&user=xNSp09cAAAAJ?hl=en&user=xNSp09cAAAAJ) – Mathematical modelling of cell migration. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
-*   [Samuel Johnson](https://www.linkedin.com/in/samuel-johnson-23a789211/?originalSubdomain=uk)  – Mathematical modelling of neural crest cell invasion. (Joint with  [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
+*   [Samuel Johnson](https://www.linkedin.com/in/samuel-johnson-23a789211/?originalSubdomain=uk)  – Mathematical modelling of neural crest cell invasion. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 * Dmytro Lyubka - TBC. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 *   [Ian McFarlane](https://www.maths.ox.ac.uk/people/ian.mcfarlane)  –  Homeostasis, bacterial infection and carcinogenesis in human gastric glands. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Francesco](https://www.ludwig.ox.ac.uk/team/francesco-boccellato) Boccellato.)
 *   [Joseph Pollaco](https://users.ox.ac.uk/~pemb5356/index.html)  –  A hybrid experimental-modelling study of SOS response-induced filamentation and its effect on bacterial colony growth . (Joint with Stefan Uphoff and  [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
