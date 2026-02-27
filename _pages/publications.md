@@ -5,10 +5,13 @@ title: "Publications"
 
 **Preprints**
 
+*   M. J. Simopson, J. S. Bennett, A. Johnston and R. E. Baker. Penalized likelihood parameter estimation for differential equation models: a computational tutorial. [arXiv](https://arxiv.org/abs/2602.04891)
+*   S. W. S. Johnson, R. E. Baker and P. K. Maini. The spontaneous emergence of leaders and followers in a mathematical model of cranial neural crest cell migration. [arXiv](https://arxiv.org/abs/2601.00374)
+*   S. M. C. Abo and R. E. Baker. Survival and invasion dynamics in cell populations: an analytical framework for threshold behaviour in nonlinear age-structured models. [arXiv](https://arxiv.org/abs/2511.17279)
+*   S. W. S. Johnsn, M. Parsons, R. E. Baker and P. K. Maini. An energy-based mathematical model of actin-driven protrusions in eukaryotic chemotaxis. [arXiv](https://arxiv.org/abs/2509.20303)
+*   Y. Liu, P. K. Maini and R. E. Baker. Optimal experiment design for practical parameter identifiability and model discrimination. [arXiv](https://arxiv.org/abs/2506.11311)
 *   A. Leibenzon, S. W. S. Johnson, R. E. Baker and M. Assaf. Spatial correlations in SIS processes on regular random graphs. [arXiv](https://arxiv.org/abs/2509.25386)
-*   A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. Davis and R. E. Baker. A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models. [arXiv](https://arxiv.org/abs/2505.19292)
 *   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
-<!-- *   A. Johnston, R. E. Baker and M. J. Simpson. Efficient inference for differential equation models without numerical solvers. [arXiv](https://arxiv.org/abs/2411.10494) -->
 *   A. Chakraborty, T. N. Phillips, N. Christodoulou, P. A. Skourides, P. K. Maini, R. E. Baker and K. Kaouri. A new mechanochemical vertex model with Ca2+ signalling, for apical constriction in neural tube closure. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.31.630855v1.abstract)
 *   J. G. Borgqvist, A. P. Browning, F. Ohlsson and R. E. Baker. Framing global structural identifiability in terms of parameter symmetries. [arXiv](https://arxiv.org/abs/2410.03757)
 *   I. B. Breinyn, S. Martina-Perez, R. E. Baker and D. J. Cohen. Cellular cruise control: energy expenditure as a regulator of collective migration in epithelia. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.21.595054v1)
@@ -16,15 +19,21 @@ title: "Publications"
 *   J. G. Borgqvist, F. Ohlsson, X. Zhou and R. E. Baker. Construction of integrable generalised travelling wave models and analytical solutions using Lie symmetries. [arXiv](https://arxiv.org/pdf/2310.08296)
 <!-- *   A. Forrow and R. E. Baker. Measuring the accuracy of likelihood-free inference. [arXiv](https://arxiv.org/abs/2112.08096) -->
 
+**2026**
+223. A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. Davis and R. E. Baker. A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models. To appear in J. Roy. Soc. Interface. [arXiv](https://arxiv.org/abs/2505.19292)
+222.  M. J. Simpson and R. E. Baker (2026). Parameter identifiability, parameter estimation and model prediction for differential equation models. SIAM Rev. 68(1). [arXiv](https://arxiv.org/abs/2405.08177) [DOI](https://doi.org/10.1137/24M1667968)
+221.  S. W. S. Johnson, P. M. Kulesa, R. E. Baker and P. K. Maini (2026). Mathematical modelling predicts novel mechanisms of stream confinement from Trail/Colec12/Dan in the collective migration of cranial neural crest cells. Dev. Dyn. 255(1):43-65. [bioRxiv](https://doi.org/10.1101/2025.02.20.639239) [DOI]( https://doi.org/10.1002/dvdy.70072)
+220.  J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa (2026). Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. Dev. Dyn. 255(1): 25-42. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1) [DOI](https://doi.org/10.1002/dvdy.70059)
+219.  R. E. Baker, R. M. Crossley, C. Falco and S. F. Martina-Perez (2025). Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling. To appear in Cell Migration --  Cold Spring Harbor Laboratory Perspectives in Biology. [arXiv](https://arxiv.org/abs/2504.19974)
+{:start="218"}
+{:reversed="reversed"}
+
+
 **2025**
-222. J. Qi and R. E. Baker. Optimal experimental design for parameter estimation in the presence of observation noise. [arXiv](https://arxiv.org/abs/2504.19233) To appear in Math. Biosci.
-221. Y. Yin, S. L. Waters and R. E. Baker (2025). The influence of cell phenotype on collective cell invasion into the extracellular matrix. To appear in Bull. Math. Biol.
-220.  R. E. Baker, R. M. Crossley, C. Falco and S. F. Martina-Perez (2025). Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling. To appear in Cell Migration --  Cold Spring Harbor Laboratory Perspectives in Biology. [arXiv](https://arxiv.org/abs/2504.19974)
-219.  J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa (2025). Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. To appear in Dev. Dyn. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1)
-218.  S. F. Martina-Perez, S. W. S. Johnson, R. M. Crossley, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Optimal control in combination therapy for heterogeneous cell populations with drug synergies. To appear in Bull. Math. Biol. [arXiv](https://arxiv.org/abs/2502.12079)
-217.  S. F. Martina-Perez, L. A. Heirene, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Modeling cell differentiation in neuroblastoma: insights into development, malignancy, and treatment relapse. To appear in J. Theor. Biol. [arXiv](https://arxiv.org/abs/2502.20939).
-216.  S. W. S. Johnson, P. M. Kulesa, R. E. Baker and P. K. Maini (2025). Mathematical modelling predicts novel mechanisms of stream confinement from Trail/Colec12/Dan in the collective migration of cranial neural crest cells. To appear in Dev. Dyn. [bioRxiv](https://doi.org/10.1101/2025.02.20.639239)
-215.  M. J. Simpson and R. E. Baker (2025). Parameter identifiability, parameter estimation and model prediction for differential equation models. To appear in SIAM Rev. [arXiv](https://arxiv.org/abs/2405.08177)
+218. J. Qi and R. E. Baker (2025). Optimal experimental design for parameter estimation in the presence of observation noise. Math. Biosci. 392:109571. [arXiv](https://arxiv.org/abs/2504.19233) [DOI](https://doi.org/10.1016/j.mbs.2025.109571)
+217. Y. Yin, S. L. Waters and R. E. Baker (2025). The influence of cell phenotype on collective cell invasion into the extracellular matrix. To appear in Bull. Math. Biol.
+216.  S. F. Martina-Perez, S. W. S. Johnson, R. M. Crossley, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Optimal control in combination therapy for heterogeneous cell populations with drug synergies. Bull. Math. Biol. 87. [arXiv](https://arxiv.org/abs/2502.12079) [DOI](https://doi.org/10.1007/s11538-025-01508-z)
+215.  S. F. Martina-Perez, L. A. Heirene, J. C. Kasemeier, P. M. Kulesa and R. E. Baker (2025). Modeling cell differentiation in neuroblastoma: insights into development, malignancy, and treatment relapse. J. Theor. Biol. 614. [arXiv](https://arxiv.org/abs/2502.20939). [DOI](https://doi.org/10.1016/j.jtbi.2025.112230)
 214.  R. M. Crossley, P. K. Maini and R. E. Baker. Modelling the impact of phenotypic heterogeneity on cell migration: a continuum framework derived from individual-based principles. Bull. Math. Biol. 87:123 (2025). [arXiv](https://arxiv.org/abs/2503.23545) [DOI](https://doi.org/10.1007/s11538-025-01502-5)
 213.  S. van der Vegt, R. E. Baker and S. L. Waters (2025). Optimal control of immune checkpoint inhibitor therapy in a heart-tumour model. Bull. Math. Biol. 127:87 (2025). [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.16.613200v1) [DOI](https://doi.org/10.1007/s11538-025-01468-4)
 212.  C. Falco, R. E. Baker and J. A. Carrillo (2025). A non-local approach to aggregation-diffusion equations. SIAM Rev. (SIGEST) 67(2). [arXiv](https://arxiv.org/abs/2505.08443) [DOI](https://doi.org/10.1137/25M1726248)
@@ -33,7 +42,7 @@ title: "Publications"
 209.  C. Falco, D. J. Cohen, J. A. Carrillo and R. E. Baker (2025). Quantifying cell cycle regulation by tissue crowding. Biophys. J. 124(6):923-932. [arXiv](https://arxiv.org/abs/2401.08805) [DOI](https://doi.org/10.1016/j.bpj.2024.05.003)
 208.  J. J. Pollacco, R. E. Baker and P. K. Maini (2024). Collective invasion: when does domain curvature matter? Appl. Math. Lett. 160:109315.  [arXiv](https://arxiv.org/abs/2406.08291) [DOI](https://doi.org/10.1016/j.aml.2024.109315)
 207.  M. J. Plank, M. J. Simpson and R. E. Baker (2025). Random walk models in the life sciences: including births, deaths and local interactions.  J. Roy. Soc. Interface 22(222):20240422. [arXiv](https://arxiv.org/abs/2411.10972) [DOI](https://doi.org/10.1098/rsif.2024.0422)
-{:start="221"}
+{:start="218"}
 {:reversed="reversed"}
 
 **2024**
