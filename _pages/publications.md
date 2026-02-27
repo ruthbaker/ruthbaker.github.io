@@ -5,7 +5,7 @@ title: "Publications"
 
 **Preprints**
 
-*   M. J. Simopson, J. S. Bennett, A. Johnston and R. E. Baker. Penalized likelihood parameter estimation for differential equation models: a computational tutorial. [arXiv](https://arxiv.org/abs/2602.04891)
+*   M. J. Simpson, J. S. Bennett, A. Johnston and R. E. Baker. Penalized likelihood parameter estimation for differential equation models: a computational tutorial. [arXiv](https://arxiv.org/abs/2602.04891)
 *   S. W. S. Johnson, R. E. Baker and P. K. Maini. The spontaneous emergence of leaders and followers in a mathematical model of cranial neural crest cell migration. [arXiv](https://arxiv.org/abs/2601.00374)
 *   S. M. C. Abo and R. E. Baker. Survival and invasion dynamics in cell populations: an analytical framework for threshold behaviour in nonlinear age-structured models. [arXiv](https://arxiv.org/abs/2511.17279)
 *   S. W. S. Johnsn, M. Parsons, R. E. Baker and P. K. Maini. An energy-based mathematical model of actin-driven protrusions in eukaryotic chemotaxis. [arXiv](https://arxiv.org/abs/2509.20303)
@@ -31,9 +31,9 @@ title: "Publications"
 
 **2025**
 218. J. Qi and R. E. Baker (2025). Optimal experimental design for parameter estimation in the presence of observation noise. Math. Biosci. 392:109571. [arXiv](https://arxiv.org/abs/2504.19233) [DOI](https://doi.org/10.1016/j.mbs.2025.109571)
-217. Y. Yin, S. L. Waters and R. E. Baker (2025). The influence of cell phenotype on collective cell invasion into the extracellular matrix. To appear in Bull. Math. Biol.
+217. Y. Yin, S. L. Waters and R. E. Baker (2025). The influence of cell phenotype on collective cell invasion into the extracellular matrix. Bull. Math. Biol. 8(1):13. [arXiv])(https://arxiv.org/abs/2506.06810) [DOI](https://doi.org/10.1007/s11538-025-01560-9)
 216.  S. F. Martina-Perez, S. W. S. Johnson, R. M. Crossley, J. C. Kasemeier, P. M. Kulesa and R. E. Baker. Optimal control in combination therapy for heterogeneous cell populations with drug synergies. Bull. Math. Biol. 87. [arXiv](https://arxiv.org/abs/2502.12079) [DOI](https://doi.org/10.1007/s11538-025-01508-z)
-215.  S. F. Martina-Perez, L. A. Heirene, J. C. Kasemeier, P. M. Kulesa and R. E. Baker (2025). Modeling cell differentiation in neuroblastoma: insights into development, malignancy, and treatment relapse. J. Theor. Biol. 614. [arXiv](https://arxiv.org/abs/2502.20939). [DOI](https://doi.org/10.1016/j.jtbi.2025.112230)
+215.  S. F. Martina-Perez, L. A. Heirene, J. C. Kasemeier, P. M. Kulesa and R. E. Baker (2025). Modeling cell differentiation in neuroblastoma: insights into development, malignancy, and treatment relapse. J. Theor. Biol. 614. [arXiv](https://arxiv.org/abs/2502.20939) [DOI](https://doi.org/10.1016/j.jtbi.2025.112230)
 214.  R. M. Crossley, P. K. Maini and R. E. Baker. Modelling the impact of phenotypic heterogeneity on cell migration: a continuum framework derived from individual-based principles. Bull. Math. Biol. 87:123 (2025). [arXiv](https://arxiv.org/abs/2503.23545) [DOI](https://doi.org/10.1007/s11538-025-01502-5)
 213.  S. van der Vegt, R. E. Baker and S. L. Waters (2025). Optimal control of immune checkpoint inhibitor therapy in a heart-tumour model. Bull. Math. Biol. 127:87 (2025). [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.16.613200v1) [DOI](https://doi.org/10.1007/s11538-025-01468-4)
 212.  C. Falco, R. E. Baker and J. A. Carrillo (2025). A non-local approach to aggregation-diffusion equations. SIAM Rev. (SIGEST) 67(2). [arXiv](https://arxiv.org/abs/2505.08443) [DOI](https://doi.org/10.1137/25M1726248)
