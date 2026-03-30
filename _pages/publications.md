@@ -5,22 +5,24 @@ title: "Publications"
 
 **Preprints**
 
+*   R. M. Crossley, C. Falco and R. E. Baker. An optimal control approach to nonlinear wave speed selection in reaction--diffusion equations. [arXiv](https://arxiv.org/abs/2603.17601)
+*   J. G. Borgqvist, A. P. Browning, F. Ohlsson and R. E. Baker. Framing local structural identifiability and observability in terms of parameter-state symmetries. [arXiv](https://arxiv.org/abs/2603.11387)
 *   M. J. Simpson, J. S. Bennett, A. Johnston and R. E. Baker. Penalized likelihood parameter estimation for differential equation models: a computational tutorial. [arXiv](https://arxiv.org/abs/2602.04891)
 *   S. W. S. Johnson, R. E. Baker and P. K. Maini. The spontaneous emergence of leaders and followers in a mathematical model of cranial neural crest cell migration. [arXiv](https://arxiv.org/abs/2601.00374)
 *   S. M. C. Abo and R. E. Baker. Survival and invasion dynamics in cell populations: an analytical framework for threshold behaviour in nonlinear age-structured models. [arXiv](https://arxiv.org/abs/2511.17279)
-*   S. W. S. Johnsn, M. Parsons, R. E. Baker and P. K. Maini. An energy-based mathematical model of actin-driven protrusions in eukaryotic chemotaxis. [arXiv](https://arxiv.org/abs/2509.20303)
+*   S. W. S. Johnson, M. Parsons, R. E. Baker and P. K. Maini. An energy-based mathematical model of actin-driven protrusions in eukaryotic chemotaxis. [arXiv](https://arxiv.org/abs/2509.20303)
 *   Y. Liu, P. K. Maini and R. E. Baker. Optimal experiment design for practical parameter identifiability and model discrimination. [arXiv](https://arxiv.org/abs/2506.11311)
 *   A. Leibenzon, S. W. S. Johnson, R. E. Baker and M. Assaf. Spatial correlations in SIS processes on regular random graphs. [arXiv](https://arxiv.org/abs/2509.25386)
 *   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
 *   A. Chakraborty, T. N. Phillips, N. Christodoulou, P. A. Skourides, P. K. Maini, R. E. Baker and K. Kaouri. A new mechanochemical vertex model with Ca2+ signalling, for apical constriction in neural tube closure. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.31.630855v1.abstract)
 *   J. G. Borgqvist, A. P. Browning, F. Ohlsson and R. E. Baker. Framing global structural identifiability in terms of parameter symmetries. [arXiv](https://arxiv.org/abs/2410.03757)
-*   I. B. Breinyn, S. Martina-Perez, R. E. Baker and D. J. Cohen. Cellular cruise control: energy expenditure as a regulator of collective migration in epithelia. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.21.595054v1)
+<!-- *   I. B. Breinyn, S. Martina-Perez, R. E. Baker and D. J. Cohen. Cellular cruise control: energy expenditure as a regulator of collective migration in epithelia. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.21.595054v1) -->
 <!-- *   S. F. Martina-Perez, I. B. Breinyn, D. J. Cohen and R. E. Baker. Spatial heterogeneity in collective electrotaxis: continuum modelling and applications to optimal control. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.28.580259v1) -->
 *   J. G. Borgqvist, F. Ohlsson, X. Zhou and R. E. Baker. Construction of integrable generalised travelling wave models and analytical solutions using Lie symmetries. [arXiv](https://arxiv.org/pdf/2310.08296)
 <!-- *   A. Forrow and R. E. Baker. Measuring the accuracy of likelihood-free inference. [arXiv](https://arxiv.org/abs/2112.08096) -->
 
 **2026**
-223. A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. Davis and R. E. Baker. A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models. To appear in J. Roy. Soc. Interface. [arXiv](https://arxiv.org/abs/2505.19292)
+223. A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. Davis and R. E. Baker. A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models. J. Roy. Soc. Interface 23(236):20250866. [arXiv](https://arxiv.org/abs/2505.19292) [DOI](https://doi.org/10.1098/rsif.2025.0866)
 222.  M. J. Simpson and R. E. Baker (2026). Parameter identifiability, parameter estimation and model prediction for differential equation models. SIAM Rev. 68(1). [arXiv](https://arxiv.org/abs/2405.08177) [DOI](https://doi.org/10.1137/24M1667968)
 221.  S. W. S. Johnson, P. M. Kulesa, R. E. Baker and P. K. Maini (2026). Mathematical modelling predicts novel mechanisms of stream confinement from Trail/Colec12/Dan in the collective migration of cranial neural crest cells. Dev. Dyn. 255(1):43-65. [bioRxiv](https://doi.org/10.1101/2025.02.20.639239) [DOI]( https://doi.org/10.1002/dvdy.70072)
 220.  J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa (2026). Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. Dev. Dyn. 255(1): 25-42. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1) [DOI](https://doi.org/10.1002/dvdy.70059)
