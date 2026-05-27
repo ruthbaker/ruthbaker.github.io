@@ -16,13 +16,11 @@ title: "Group"
 *   [Catherine Engert](https://www.maths.ox.ac.uk/people/catherine.engert). Stochastic models of cancer growth. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   Luke De Bretton-Gordon. Data-driven modelling of cell dynamics. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   [Elliot Hughes](https://scholar.google.com/citations?hl=en&user=xNSp09cAAAAJ?hl=en&user=xNSp09cAAAAJ) – Mathematical modelling of cell migration. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
-*   [Samuel Johnson](https://www.linkedin.com/in/samuel-johnson-23a789211/?originalSubdomain=uk)  – Mathematical modelling of neural crest cell invasion. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 *   [Dmytro Lyubka](https://www.linkedin.com/in/dmytro-lyubka-a6655b232/) - Computional models of cell migration. (Joint with [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 *   [Ian McFarlane](https://www.maths.ox.ac.uk/people/ian.mcfarlane)  –  Homeostasis, bacterial infection and carcinogenesis in human gastric glands. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Francesco Boccellato](https://www.ludwig.ox.ac.uk/team/francesco-boccellato).)
-[Philip Maini](https://people.maths.ox.ac.uk/maini/).)
 *   [Tom Quinlan](https://www.maths.ox.ac.uk/people/thomas.quinlan) – An integrative mathematical approach to understand how intraplaque angiogenesis and vascular structure impact atherosclerosis and their potential as novel therapeutic targets. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
 *   [Thomas Reed](https://www.maths.ox.ac.uk/people/tom.reed) – Mathematical modelling of adipose tissue lipid metabolism. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne).)
-*   Ben Stephens. TBC. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Philip Maini](https://people.maths.ox.ac.uk/maini/).)
+*   Ben Stephens. Modelling cell cycle dynamics. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Carles Falco](https://www.cfalco.com).)
 *   [Nathan Schofield](https://www.maths.ox.ac.uk/people/nathan.schofield) – Mathematical modelling of the role of cell heterogeneity in promoting melanoma metastasis. (Joint with [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) and [Richard White](https://www.ludwig.ox.ac.uk/research/richard-white-group-page).)
 *   [Yuan Yin](https://www.linkedin.com/in/rebecca-yin/?originalSubdomain=au) – Mathematical modelling of cardiac fibrosis. (Joint with [Sarah Waters](https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html).)
 *   [Lena Zuspann](https://www.maths.ox.ac.uk/people/lena.zuspann). Multiscale models of cancer progression. (Joint with [Maria Bruna](https://people.maths.ox.ac.uk/bruna/).)
@@ -43,6 +41,7 @@ title: "Group"
 * Dr Philip Murray - Multi-scale modelling of cellular oscillators: applications to vertebrate segmentation and hair follicle cycling (PDRA 2009-2012).
 * Dr B Vaughan Jr - Multi-scale modelling and numerical simulation of periodic pattern formation during development (PDRA 2007-2009).
 
+* Dr Samuel Johnson – Mathematical modelling of neural crest cell invasion (D.Phil. 2026).
 * Dr Joseph Pollaco – A hybrid experimental-modelling study of SOS response-induced filamentation and its effect on bacterial colony growth. (D.Phil. 2026)
 * Dr Carles Falco I Gandia - Modelling interacting cell populations (D.Phil. 2025).
 * Dr James Hammond – On the evolvability of segment number in Teleost fishes (D.Phil. 2025).
