@@ -4,10 +4,11 @@ title: "Publications"
 ---
 
 **Preprints**
+*   T. E. Loman, A. P. Browning and R. E. Baker. Structural functional identifiability and model discovery in differential equation models. [arXiv](https://arxiv.org/abs/2606.30289)
 *   T. E. Loman and R. E. Baker. Functional and parametric identifiability for universal differential equations applied to chemical reaction networks. [arXiv](https://arxiv.org/abs/2510.14140)
 *   T. E. Loman, Y. Salmaniw, A. L. Villares, J. A. Carrillo and R. E. Baker. Learning functional components of PDEs from data using neural networks. [arXiv](https://arxiv.org/abs/2602.13174)
 *   Y. S. Foo, T. E. Loman, A. P. Browning, I Siekmann, R. E. Baker and J. A. Flegg. Reliable model selection in the presence of parameter non-identifiability. [arXiv](https://arxiv.org/abs/2605.19807)
-*   R. M. Crossley, C. Falco and R. E. Baker. An optimal control approach to nonlinear wave speed selection in reaction--diffusion equations. [arXiv](https://arxiv.org/abs/2603.17601)
+*   A. Ceccarelli, A. P. Browning and R. E. Baker. Structural identifiability of partially-observed stochastic processes: from single-particle trajectories to total particle density data. [arXiv](https://arxiv.org/abs/2605.13504)
 *   T. J. Jewell, S. W. S. Johnson, R. E. Baker and P. K. Maini. Cell-cell adhesion cannot sustain extended follower streams in a minimal non-local model of leader-follower migration. [arXiv](https://arxiv.org/abs/2604.15283)
 *   N. Schofield, R. White, R. E. Baker and H. M. Byrne. Quantifying the effect of phenotype on clustering behaviour in melanoma: from monoculture to co-culture. [arXiv](https://arxiv.org/abs/2604.24673)
 *   M. J. Simpson, J. S. Bennett, A. Johnston and R. E. Baker. Penalized likelihood parameter estimation for differential equation models: a computational tutorial. [arXiv](https://arxiv.org/abs/2602.04891)
@@ -23,8 +24,9 @@ title: "Publications"
 <!-- *   A. Forrow and R. E. Baker. Measuring the accuracy of likelihood-free inference. [arXiv](https://arxiv.org/abs/2112.08096) -->
 
 **2026**
-226.   Y. Liu, P. K. Maini and R. E. Baker. Optimal experiment design for practical parameter identifiability and model discrimination. [arXiv](https://arxiv.org/abs/2506.11311)
-225.   A. Leibenzon, S. W. S. Johnson, R. E. Baker and M. Assaf. Spatial correlations in SIS processes on regular random graphs. [arXiv](https://arxiv.org/abs/2509.25386)
+227.   R. M. Crossley, C. Falco and R. E. Baker. An optimal control approach to nonlinear wave speed selection in reaction--diffusion equations. To appear in SIAM J. Appl. Math. [arXiv](https://arxiv.org/abs/2603.17601)
+226.   Y. Liu, P. K. Maini and R. E. Baker. Optimal experiment design for practical parameter identifiability and model discrimination. To appear in Math. Biosci. [arXiv](https://arxiv.org/abs/2506.11311)
+225.   A. Leibenzon, S. W. S. Johnson, R. E. Baker and M. Assaf. Spatial correlations in SIS processes on regular random graphs. To appear in Phys. Rev. E. [arXiv](https://arxiv.org/abs/2509.25386)
 224. S. M. C. Abo and R. E. Baker. Survival and invasion dynamics in cell populations: an analytical framework for threshold behaviour in nonlinear age-structured models. To appear in SIAM J. Life Sci. [arXiv](https://arxiv.org/abs/2511.17279) 
 223. A. Ceccarelli, A. P. Browning, T. Chaiamarit, I. Davis and R. E. Baker. A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models. J. Roy. Soc. Interface 23(236):20250866. [arXiv](https://arxiv.org/abs/2505.19292) [DOI](https://doi.org/10.1098/rsif.2025.0866)
 222.  M. J. Simpson and R. E. Baker (2026). Parameter identifiability, parameter estimation and model prediction for differential equation models. SIAM Rev. 68(1). [arXiv](https://arxiv.org/abs/2405.08177) [DOI](https://doi.org/10.1137/24M1667968)
