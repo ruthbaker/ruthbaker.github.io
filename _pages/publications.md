@@ -6,6 +6,7 @@ title: "Publications"
 **Preprints**
 *   R. M. Crossley, Y. Yin, S. L. Waters and R. E. Baker. Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design. [arXiv](https://arxiv.org/abs/2607.07425)
 *   T. E. Loman, A. P. Browning and R. E. Baker. Structural functional identifiability and model discovery in differential equation models. [arXiv](https://arxiv.org/abs/2606.30289)
+*   C. L. Stewart, Y. Yin, P. R. Filey, S. L. Water and R. E. Baker. Organ-specific fibroblast dynamics revealed via an integrated experimental-computational framework. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.06.05.730427v1)
 *   R. M. Crossley and R. E. Baker. A likelihood-based framework for simultaneously learning both noise and growth dynamics using biologically-informed neural networks. [arXiv](https://arxiv.org/abs/2606.13475)
 *   T. E. Loman and R. E. Baker. Functional and parametric identifiability for universal differential equations applied to chemical reaction networks. [arXiv](https://arxiv.org/abs/2510.14140)
 *   T. E. Loman, Y. Salmaniw, A. L. Villares, J. A. Carrillo and R. E. Baker. Learning functional components of PDEs from data using neural networks. [arXiv](https://arxiv.org/abs/2602.13174)
@@ -15,7 +16,6 @@ title: "Publications"
 *   N. Schofield, R. White, R. E. Baker and H. M. Byrne. Quantifying the effect of phenotype on clustering behaviour in melanoma: from monoculture to co-culture. [arXiv](https://arxiv.org/abs/2604.24673)
 *   M. J. Simpson, J. S. Bennett, A. Johnston and R. E. Baker. Penalized likelihood parameter estimation for differential equation models: a computational tutorial. [arXiv](https://arxiv.org/abs/2602.04891)
 *   S. W. S. Johnson, R. E. Baker and P. K. Maini. The spontaneous emergence of leaders and followers in a mathematical model of cranial neural crest cell migration. [arXiv](https://arxiv.org/abs/2601.00374)
-*   S. W. S. Johnson, M. Parsons, R. E. Baker and P. K. Maini. An energy-based mathematical model of actin-driven protrusions in eukaryotic chemotaxis. [arXiv](https://arxiv.org/abs/2509.20303)
 *   A. P. Browning, M. J. Chappell, H. Rahkooy, T. E. Loman and R. E. Baker. Exact identifiability analysis for a class of partially observed near-linear stochastic differential equation models. [arXiv](https://arxiv.org/abs/2503.19241)
 *   A. Chakraborty, T. N. Phillips, N. Christodoulou, P. A. Skourides, P. K. Maini, R. E. Baker and K. Kaouri. A new mechanochemical vertex model with Ca2+ signalling, for apical constriction in neural tube closure. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.31.630855v1.abstract)
 *   J. G. Borgqvist, A. P. Browning, F. Ohlsson and R. E. Baker. Framing global structural identifiability in terms of parameter symmetries. [arXiv](https://arxiv.org/abs/2410.03757)
@@ -26,6 +26,7 @@ title: "Publications"
 <!-- *   A. Forrow and R. E. Baker. Measuring the accuracy of likelihood-free inference. [arXiv](https://arxiv.org/abs/2112.08096) -->
 
 **2026**
+228. S. W. S. Johnson, M. Parsons, R. E. Baker and P. K. Maini. An energy-based mathematical model of actin-driven protrusions in eukaryotic chemotaxis. To appear in Biophys. J. [arXiv](https://arxiv.org/abs/2509.20303)
 227.   R. M. Crossley, C. Falco and R. E. Baker. An optimal control approach to nonlinear wave speed selection in reaction--diffusion equations. To appear in SIAM J. Appl. Math. [arXiv](https://arxiv.org/abs/2603.17601)
 226.   Y. Liu, P. K. Maini and R. E. Baker. Optimal experiment design for practical parameter identifiability and model discrimination. To appear in Math. Biosci. [arXiv](https://arxiv.org/abs/2506.11311)
 225.   A. Leibenzon, S. W. S. Johnson, R. E. Baker and M. Assaf. Spatial correlations in SIS processes on regular random graphs. To appear in Phys. Rev. E. [arXiv](https://arxiv.org/abs/2509.25386)
@@ -35,7 +36,7 @@ title: "Publications"
 221.  S. W. S. Johnson, P. M. Kulesa, R. E. Baker and P. K. Maini (2026). Mathematical modelling predicts novel mechanisms of stream confinement from Trail/Colec12/Dan in the collective migration of cranial neural crest cells. Dev. Dyn. 255(1):43-65. [bioRxiv](https://doi.org/10.1101/2025.02.20.639239) [DOI]( https://doi.org/10.1002/dvdy.70072)
 220.  J. C. Kasemeier-Kulesa, S. Martina-Perez, R. E. Baker and P. M. Kulesa (2026). Identification of neural crest and neural crest-derived cancer cell invasion and migration genes using high-throughput screening and deep attention networks. Dev. Dyn. 255(1): 25-42. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.07.583913v1) [DOI](https://doi.org/10.1002/dvdy.70059)
 219.  R. E. Baker, R. M. Crossley, C. Falco and S. F. Martina-Perez (2025). Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling. To appear in Cell Migration --  Cold Spring Harbor Laboratory Perspectives in Biology. [arXiv](https://arxiv.org/abs/2504.19974)
-{:start="226"}
+{:start="228"}
 {:reversed="reversed"}
 
 
