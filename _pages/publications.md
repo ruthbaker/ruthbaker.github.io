@@ -6,7 +6,7 @@ title: "Publications"
 **Preprints**
 *   R. M. Crossley, Y. Yin, S. L. Waters and R. E. Baker. Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design. [arXiv](https://arxiv.org/abs/2607.07425)
 *   T. E. Loman, A. P. Browning and R. E. Baker. Structural functional identifiability and model discovery in differential equation models. [arXiv](https://arxiv.org/abs/2606.30289)
-*   C. L. Stewart, Y. Yin, P. R. Filey, S. L. Water and R. E. Baker. Organ-specific fibroblast dynamics revealed via an integrated experimental-computational framework. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.06.05.730427v1)
+*   C. L. Stewart, Y. Yin, P. R. Riley, S. L. Water and R. E. Baker. Organ-specific fibroblast dynamics revealed via an integrated experimental-computational framework. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.06.05.730427v1)
 *   R. M. Crossley and R. E. Baker. A likelihood-based framework for simultaneously learning both noise and growth dynamics using biologically-informed neural networks. [arXiv](https://arxiv.org/abs/2606.13475)
 *   T. E. Loman and R. E. Baker. Functional and parametric identifiability for universal differential equations applied to chemical reaction networks. [arXiv](https://arxiv.org/abs/2510.14140)
 *   T. E. Loman, Y. Salmaniw, A. L. Villares, J. A. Carrillo and R. E. Baker. Learning functional components of PDEs from data using neural networks. [arXiv](https://arxiv.org/abs/2602.13174)
